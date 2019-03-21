@@ -83,3 +83,15 @@ a {
 
     padding: 0px 10px 0px 0px
 }
+header {
+    display;flex; 
+/*    flex-direction:column*/
+    
+    @media screen and (max-width; 40rem) {
+        {
+            flex-direction: column
+        }
+        }
+    
+    
+
