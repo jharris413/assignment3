@@ -6,6 +6,7 @@ h1 {
 
     color: #d8dede;
     font-family: monospace
+        
 
 
 
@@ -16,6 +17,7 @@ h1 {
 p {
 
     text-align: center;
+    
    
 
 }
@@ -36,6 +38,9 @@ h3 {
     display: block;
     font-family:monospace;
     font-size: 21px;
+    border-style:ridge
+    
+
     
 
 }
@@ -66,6 +71,7 @@ img {
 body {
 
     background-color: #5c9cd4;
+  
 
 }
 
@@ -146,7 +152,8 @@ a:hover {
     text-decoration: underline;
 
     text-decoration-color: cornflowerblue;
-    font-family: cursive
+    font-family: cursive;
+   
 
 }
 
@@ -248,6 +255,6 @@ footer {
 
     text-align: center;
 
-    color: firebrick;
+    color: #8b1c1c;
 
 }
